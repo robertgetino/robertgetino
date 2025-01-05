@@ -1,4 +1,4 @@
-<h1>Hi, I'm Robert, an <a href="https://linkedin.com/in/robertgetino">IT Professional!
+<h1>Hi, I'm Robert, an <a href="https://linkedin.com/in/robertgetino"> up and coming IT Professional!
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
